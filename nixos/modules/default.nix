@@ -6,11 +6,13 @@
     ./env.nix
     ./home-manager.nix
     ./hyprland.nix
-    ./kernel.nix
+    # ./kernel.nix
+    ./locale.nix
     ./mime.nix
     ./net.nix
     ./nh.nix
     ./nix.nix
+    ./ssh.nix
     ./timezone.nix
     ./user.nix
     ./zram.nix
