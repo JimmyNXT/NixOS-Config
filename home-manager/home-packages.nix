@@ -5,16 +5,9 @@
     # Packages in each category are sorted alphabetically
 
     # Desktop apps
-    anki
     code-cursor
-    imv
-    mpv
-    obs-studio
     obsidian
-    pavucontrol
     teams-for-linux
-    telegram-desktop
-    vesktop
 
     # CLI utils
     bc
