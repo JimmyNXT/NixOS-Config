@@ -6,6 +6,7 @@
     # ./eza.nix
     ./git.nix
     # ./hyprland
+    ./i3wm
     ./lazygit.nix
     ./neovim.nix
     ./obsidian.nix

@@ -29,7 +29,7 @@
             xterm.enable = false;
         };
         displayManager.auto = { 
-            enable = true; 
+            # enable = true; 
             user = "jimmynxt"; 
             lightdm = {
                 enable = true;
