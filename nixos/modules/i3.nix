@@ -1,5 +1,5 @@
 {
-    programs.i3 {
+    programs.i3 = {
         enable = true;
     }
 }
