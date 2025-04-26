@@ -25,7 +25,7 @@
         };
 
         desktopManager = {
-            default = "none";
+            # default = "none";
             xterm.enable = false;
         };
         displayManager.auto = { 
