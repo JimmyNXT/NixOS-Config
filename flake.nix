@@ -27,9 +27,8 @@
     homeStateVersion = "24.11";
     user = "jimmynxt";
     hosts = [
-      { hostname = "slim3"; stateVersion = "24.05"; }
-      { hostname = "330-15ARR"; stateVersion = "24.11"; }
-      { hostname = "nixos"; stateVersion = "24.11"; }
+      { hostname = "vm"; stateVersion = "24.11"; }
+      { hostname = "HP-Laptop"; stateVersion = "24.11"; }
     ];
 
     makeSystem = { hostname, stateVersion }: nixpkgs.lib.nixosSystem {
