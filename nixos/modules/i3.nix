@@ -15,8 +15,8 @@
         windowManager = {
             default = "i3";
             i3.enable = true;
-            i3.package = pkgs.i3-gaps;
-            i3.extraPackages = with pkgs; [
+            # i3.package = pkgs.i3-gaps;
+            i3.extraPackages = [
                 dmenu
                 i3lock
                 i3status
