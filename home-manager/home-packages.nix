@@ -27,7 +27,7 @@
     # playerctl
     ripgrep
     # udisks
-    unzi
+    unzip
     wget
     curl
     # wtype
