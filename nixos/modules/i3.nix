@@ -1,4 +1,4 @@
-{
+{ pkgs, ... }:{
     xserver = {
         enable = true;
         layout = "us";
@@ -15,8 +15,8 @@
         windowManager = {
             default = "i3";
             i3.enable = true;
-            # i3.package = pkgs.i3-gaps;
-            i3.extraPackages = [
+            i3.package = pkgs.i3-gaps;
+            i3.extraPackages = with pkgs; [
                 dmenu
                 i3lock
                 i3status
