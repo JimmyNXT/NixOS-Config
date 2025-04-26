@@ -1,23 +1,13 @@
 {
   imports = [
     ./alacritty.nix
-    # ./bat.nix
-    # ./chromium.nix
-    # ./eza.nix
     ./git.nix
-    # ./hyprland
     ./i3wm
     ./lazygit.nix
     ./neovim.nix
-    ./obsidian.nix
-    # ./ranger.nix
-    # ./starship.nix
-    # ./stylix.nix
-    # ./swaync
     ./tmux.nix
-    # ./waybar
-    # ./wofi
-    # ./zathura.nix
+    ./virt-manager.nix
+    ./vscode.nix
     ./zsh.nix
   ];
 }
