@@ -1,5 +1,5 @@
 { pkgs, ... }:{
-    xserver = {
+    services.xserver = {
         enable = true;
         layout = "us";
         libinput = {
