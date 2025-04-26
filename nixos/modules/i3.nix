@@ -27,7 +27,7 @@
         desktopManager = {
             default = "none";
             xterm.enable = false;
-        }
+        };
         displayManager.auto = { 
             enable = true; 
             user = ${user}; 
