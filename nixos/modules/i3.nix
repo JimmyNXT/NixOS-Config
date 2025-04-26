@@ -30,12 +30,12 @@
         };
         displayManager.auto = { 
             enable = true; 
-            user = "${user}"; 
+            user = "jimmynxt"; 
             lightdm = {
                 enable = true;
                 greeter.enable = false;
                 autoLogin.enable = true;
-                autoLogin.user = "${user}";
+                autoLogin.user = "jimmynxt";
             };
         };
     };
