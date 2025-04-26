@@ -43,6 +43,7 @@
     # wtype
     # yt-dlp
     zip
+    virt-manager
 
     # Coding stuff
     # openjdk23
