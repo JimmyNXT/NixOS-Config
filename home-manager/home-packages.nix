@@ -5,43 +5,32 @@
     # Packages in each category are sorted alphabetically
 
     # Desktop apps
-    # anki
-    # code-cursor
-    # imv
-    # mpv
+    nemo
+    blueman
     obsidian
-    # pavucontrol
+    pavucontrol
     teams-for-linux
     # telegram-desktop
-    # vesktop
 
     # CLI utils
-    # bc
-    # bottom
-    # brightnessctl
-    # cliphist
-    # ffmpeg
-    # ffmpegthumbnailer
+    bc            # Calculator
+    brightnessctl # Brightness control
+    xclip
     fzf
+    xca
     # git-graph
     # grimblast
     # htop
     # hyprpicker
-    # ntfs3g
+    ntfs3g
     # mediainfo
-    # microfetch
     # playerctl
     ripgrep
-    # showmethekey
-    # silicon
     # udisks
-    # ueberzugpp
-    # unzip
-    # w3m
+    unzi
     wget
-    # wl-clipboard
+    curl
     # wtype
-    # yt-dlp
     zip
     virt-manager
 
@@ -52,7 +41,7 @@
 
     # # WM stuff
     # libsForQt5.xwaylandvideobridge
-    # libnotify
+    libnotify
     # xdg-desktop-portal-gtk
     # xdg-desktop-portal-hyprland
 
